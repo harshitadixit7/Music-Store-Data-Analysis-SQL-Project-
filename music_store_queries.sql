@@ -148,8 +148,3 @@ WITH Customter_with_country AS (
 		ORDER BY 4 ASC,5 DESC)
 SELECT * FROM Customter_with_country WHERE RowNo <= 1
 
-
-
-/* source: www.youtube.com/@RishabhMishraOfficial */
-
-/* Thank You :) */
