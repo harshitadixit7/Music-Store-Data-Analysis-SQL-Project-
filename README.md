@@ -23,5 +23,5 @@ This project analyzes data from a music store to find useful information about s
 2. Open the SQL files in PostgreSQL or MYSQL.  
 3. Run the queries on your music store database or a similar dataset to see the results.
 
-Credits
+## Credits
 This project was inspired by the content from https://www.youtube.com/watch?v=VFIuIjswMKM&list=PLdOKnrf8EcP2TfGV0VZueHNye3_vp5fFw
